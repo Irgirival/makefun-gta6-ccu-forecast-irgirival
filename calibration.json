@@ -1,0 +1,1 @@
+{"delayedMismatch":0.05,"featureScales":{"logM":2.0,"logRamp":1.0,"logV1":1.5,"logVpc":0.7},"featureWeights":{"logM":1.0,"logRamp":1.0,"logV1":3.0,"logVpc":0.5},"medianBlend":1.0,"minAnalogHours":12,"priorStrength":0,"regimeMismatch":0.15,"smoothMedian":true,"sparseSpread":0.5,"spreadCap":1.0,"spreadFactor":0.8,"spreadFloor":0.15,"weakTierWeight":0.3}
